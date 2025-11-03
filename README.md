@@ -16,7 +16,7 @@ Tidal.ninja requires `R` version 4+, with the `terra` library.  Tested on Window
 ## Usage
 The calculation code lives inside `tidal_ninja.r`. In that file, you just need to change the path to say where you have downloaded all the files.
 
-Two examples of how to simulate tidal plants at a single location are given in `example_stream.r` and `example_range.r`.
+Two examples of how to simulate tidal plants at a single location are given in `example_tidal_stream.r` and `example_tidal_range.r`.
 
 
 ## Contact
